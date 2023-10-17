@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  The Force is strong with this one. I have you now
-date:   2018-11-09 15:01:35 +0300
+title:  Hello, world!
+date:   2023-10-17 15:47:35 +0300
 image:  '/images/06.jpg'
 tags:   Life
 featured: true
 ---
-Still, she's got a lot of spirit. I don't know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can't get involved! I've got work to do! It's not that I like the Empire, I hate it, but there's nothing I can do about it right now. It's such a long way from here. I suggest you try it again, Luke. You are a part of the Rebel Alliance and a traitor! 
+We are so back!
 
 Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force. Take her away! Your eyes can deceive you. Don't trust them.
 

@@ -6,6 +6,7 @@ gem "bundler"
 gem "jekyll-paginate"
 gem "jekyll-tagging"
 gem "jekyll-sitemap"
+gem "webrick"
 
 # Other plugins can be added here, just remember they need to be supported by GitHub Pages
 

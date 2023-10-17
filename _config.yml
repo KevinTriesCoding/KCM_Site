@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Mateo
+title: Kevin Moye
 description:
 logo: # You can add own logo. For example '/images/logo.png'.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,11 +11,11 @@ url: "https://mateo-jekyll.netlify.com/" # the base hostname & protocol for your
 #-------------------------------
 # Author Settings
 author:
-  name: Cameron Wilson
+  name: Kevin Moye
   image: '/images/15.jpg'
   avatar: '/images/01.jpg'
   job: Designer
-  bio: I like being at the center of events, being free and enjoying every moment.
+  bio: I like to write about tech, dudebro philosophy, and whatever random musings in between.
 
 
 #-------------------------------
